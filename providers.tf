@@ -12,7 +12,7 @@ provider "google" {
 
   credentials = file("/home/hugo_iroz/gcpkey.json")
 
-  project = "teste-351601"
+  project = "cedar-scene-360015"
   region  = "us-west1"
   zone    = "us-west1-b"
 }
